@@ -17,9 +17,9 @@ int gerimis;
 #include <WidgetRTC.h>
 
 //setting wifi
-char auth[] = "bhnSoTw56gyaKwUM1zc6sJaJbXPV4u9_";
-char ssid[] = "Redmi";
-char pass[] = "galanggalang";
+char auth[] = "blynk authenticator";
+char ssid[] = "my wifi";
+char pass[] = "my password";
 
 BlynkTimer timer;
 WidgetRTC rtc;
